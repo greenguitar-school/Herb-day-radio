@@ -29,7 +29,7 @@ $ git clone https://github.com/greenguitar-school/Herb-day-radio.git
 
 Dans le cas contraire, téléchargez l'archive (bouton Code puis Download ZIP) depuis votre navigateur.
 
-Décompressez là et placez vous dans le dossier fraîchement extrait.
+Décompressez-la et placez-vous dans le dossier fraîchement extrait.
 ```bash
 $ unzip Herb-day-radio-master.zip
 $ cd Herb-day-radio-master
