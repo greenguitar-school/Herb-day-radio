@@ -35,13 +35,13 @@ $ unzip Herb-day-radio-master.zip
 $ cd Herb-day-radio-master
 ```
 
-Donner les droits d'exécution au script
+Donnez les droits d'exécution au script
 
 ```bash
 $ chmod +x ./herb_day_radio.sh
 ```
 
-Lancer le script pour checker les dépendances
+Lancez le script pour checker les dépendances
 
 ```bash
 $ ./herb_day_radio.sh
