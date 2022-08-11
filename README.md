@@ -19,7 +19,12 @@ Pour celles ou ceux qui préfèrent charger directement le lien [Icecast](https:
 
 ## Installation sous debian et dérivés (ubuntu, mint...)
 
-Clonez le dépôt sur votre machine avec git ou téléchargez-le (bouton Code puis Download ZIP) depuis votre navigateur.
+Clonez le dépôt sur votre machine avec git ou téléchargez-le (bouton Code puis Download ZIP) depuis votre navigateur
+
+```bash
+git clone https://github.com/greenguitar-school/Herb-day-radio.git
+```
+
 Décompressez l'archive et ouvrez un terminal depuis le dossier fraîchement extrait.
 
 Donner les droits d'exécution au script
