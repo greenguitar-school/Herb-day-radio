@@ -17,15 +17,23 @@ Pour celles ou ceux qui préfèrent charger directement le lien [Icecast](https:
 
 <br/>
 
-## Installation sous debian et dérivés (ubuntu, mint...)
+## Sous debian et dérivés (ubuntu, mint...)
 
-Clonez le dépôt sur votre machine avec git ou téléchargez-le (bouton Code puis Download ZIP) depuis votre navigateur
+Ouvrez un terminal.
+
+Clonez le dépôt sur votre machine avec git s'il est déjà installé sur votre machine...
 
 ```bash
-git clone https://github.com/greenguitar-school/Herb-day-radio.git
+$ git clone https://github.com/greenguitar-school/Herb-day-radio.git
 ```
 
-Décompressez l'archive et ouvrez un terminal depuis le dossier fraîchement extrait.
+Dans le cas contraire, téléchargez l'archive (bouton Code puis Download ZIP) depuis votre navigateur.
+
+Décompressez là et placez vous dans le dossier fraîchement extrait.
+```bash
+$ unzip Herb-day-radio-master.zip
+$ cd Herb-day-radio-master
+```
 
 Donner les droits d'exécution au script
 
