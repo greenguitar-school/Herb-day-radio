@@ -72,4 +72,5 @@ Si la géographie, l'histoire et les ballades virtuelles en ligne vous intéress
 * [Hillsboro Ohio (fr)](https://fr.wikipedia.org/wiki/Hillsboro_(Ohio))
 * [Hillsboro OH (en)](https://en.wikipedia.org/wiki/Hillsboro,_Ohio)
 * [Highland County, Ohio](https://en.wikipedia.org/wiki/Highland_County,_Ohio)
+* [City of Hillsboro](https://www.hillsboroohio.net/)
 
